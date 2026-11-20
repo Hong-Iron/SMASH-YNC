@@ -1,0 +1,34 @@
+{
+ "region": "대구 남구",
+ "nameEn": "Yeungnam University College",
+ "added": "2026-11-01T02:27",
+ "rank": 117,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DNUE",
+   "campus": "대구교육대학교",
+   "km": 0.8
+  },
+  {
+   "code": "KEIMYUNG-DAEMYEONG",
+   "campus": "계명대학교 대명캠퍼스",
+   "km": 0.8
+  },
+  {
+   "code": "DAEGU-DAEMYEONG",
+   "campus": "대구대학교 대명동캠퍼스",
+   "km": 1.2
+  },
+  {
+   "code": "KNU-DONGIN",
+   "campus": "경북대학교 동인캠퍼스",
+   "km": 3.0
+  },
+  {
+   "code": "KNU",
+   "campus": "경북대학교 대구캠퍼스",
+   "km": 5.4
+  }
+ ]
+}
